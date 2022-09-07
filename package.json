@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RVCC-IDMX/cowsay-dibend/issues"
   },
-  "homepage": "https://github.com/RVCC-IDMX/cowsay-dibend#readme"
+  "homepage": "https://github.com/RVCC-IDMX/cowsay-dibend#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
 }
